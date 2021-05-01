@@ -1,4 +1,4 @@
-# homework
+
 # JP Morgan Chase Case Study
 
 ## Overview and Origin
